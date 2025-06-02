@@ -1,2 +1,1 @@
-# pingportscan.ps1
-ping and port scanner
+Version 1 of a powershell ping/port/scan
