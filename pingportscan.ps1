@@ -47,3 +47,4 @@ for ($i = 1; $i -le 255; $i++) {
 
 # Export results to CSV file
 $results | Export-Csv -Path "scan_results.csv" -NoTypeInformation
+# testing
